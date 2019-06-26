@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - InvisibleWall
+  - UnderWall
+  - Wall
+  - trap
+  - UpAddForce
+  - UpWall
+  - UpUpWall
+  - isTriggerFlag
+  - UpUpUpWal
+  - RocketAddForce
+  - ufo
+  - Goal
+  - Life
+  - StartBack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerDamage
+  - Trap
+  - TrapDamage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1141272039
+    locked: 0
